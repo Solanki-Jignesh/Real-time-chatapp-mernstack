@@ -16,6 +16,7 @@
     "chat-app": "file:..",
     "framer-motion": "^4",
     "react": "^16.14.0",
+    "react-scripts": "^4.0.3",
     "react-chips": "^0.8.0",
     "react-dom": "^16.14.0",
     "react-lottie": "^1.2.3",
